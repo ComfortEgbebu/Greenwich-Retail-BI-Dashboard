@@ -139,14 +139,21 @@ The Power BI solution consists of three interactive dashboards designed to suppo
 
   ## Business Recommendations
 
-  ## Business Recommendations
-
 - **Improve Furniture profitability** by reviewing pricing strategies, supplier contracts, discount policies, and operational costs, as the category generated the highest sales revenue but the lowest profit.
-- **Replicate successful practices from the West region** across other regions to improve overall profit margins, as West achieved the highest profitability efficiency despite lower sales than East. Such practices might be analyzing the operational, pricing, and sales practices used in the West region and identifying opportunities to implement similar strategies in the other regions.
+- **Replicate successful operational practices from the West region** across other regions to improve overall profit margins, as West achieved the highest profitability efficiency despite lower sales than East. Such practices might be analyzing the operational, pricing, and sales practices used in the West region and identifying opportunities to implement similar strategies in the other regions.
 - **Strengthen relationships with Corporate customers** through retention initiatives and tailored engagement strategies, while identifying opportunities to grow profitability within the Consumer and Home Office segments.
 - **Prioritize high-performing products** while reviewing the commercial viability of consistently low-performing products through pricing adjustments, targeted promotions, or inventory optimization.
 - **Continue optimizing Standard Class shipping**, as it was both the most frequently selected shipping method and the highest contributor to shipment-related profit.
 - **Investigate seasonal sales patterns** to better understand the second-quarter decline and strong fourth-quarter recovery, supporting improved forecasting, inventory planning, and promotional strategies.
+
+  ## Tools & Technologies
+
+- Microsoft Power BI Desktop
+- Power Query
+- DAX (Data Analysis Expressions)
+- Microsoft Excel
+- Dimensional Data Modeling (Star Schema)
+- Git & GitHub
 
   
 
