@@ -147,13 +147,14 @@ The Power BI solution consists of three interactive dashboards designed to suppo
 - **Investigate seasonal sales patterns** to better understand the second-quarter decline and strong fourth-quarter recovery, supporting improved forecasting, inventory planning, and promotional strategies.
 
   ## Tools & Technologies
-
+  
+- Microsoft Excel
 - Microsoft Power BI Desktop
 - Power Query
 - DAX (Data Analysis Expressions)
-- Microsoft Excel
 - Dimensional Data Modeling (Star Schema)
-- Git & GitHub
+- Git &
+- GitHub
 
   
 
