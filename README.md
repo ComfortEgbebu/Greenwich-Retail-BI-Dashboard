@@ -119,7 +119,7 @@ The Power BI solution consists of three interactive dashboards designed to suppo
 
 ### Key Business Insights
 
-- The Corporate customer segment generated the highest profit ($7.75K) approximately 47.6% of total segment profit, followed by the Consumer segment ($5.43K), while the Home Office segment contributed the lowest profit ($3.09K). This highlights the importance of the corporate customers as the company's most valuable customer group. Management should prioritize customer retention initiatives and strengthen relationships with corporate clients while identifying opportunities to increase profitability within the Consumer and Home Office segments through targeted marketing and product strategies.
+- The Corporate customer segment generated the highest profit ($7.75K), representing approximately 47.6% of total segment profit, followed by the Consumer segment ($5.43K), while the Home Office segment contributed the lowest profit ($3.09K). This highlights the importance of the corporate customers as the company's most valuable customer group. Management should prioritize customer retention initiatives and strengthen relationships with corporate clients while identifying opportunities to increase profitability within the Consumer and Home Office segments through targeted marketing and product strategies. 
 - Standard Class was the most frequently selected shipping method and also generated the highest shipment-related profit ($9.68K), indicating that it played a significant role in both customer orders and overall business profitability, although the underlying reason why customers prioritized this mode cannot be determined from the available data.
 - The Top 10 customers contributed a significant share of total profit, with Christopher Marr leading at approximately $3.2K, highlighting the importance of retaining high-value customers.
 - Andrew Gjertsen and Peter Fuller were the most active customers, recording 75 and 68 purchases respectively, demonstrating exceptionally high engagement levels.
@@ -131,7 +131,6 @@ The Power BI solution consists of three interactive dashboards designed to suppo
 - Sales performance followed distinct seasonal patterns, with a sustained decline during the second quarter followed by a strong recovery in the second half of the year
 - Furniture generated the highest sales revenue but the lowest profit, making it the least profitable.
 - Technology was the most profitable product category.
-- Sales weakened during the second quarter before recovering strongly in the second half of the year.
 - East generated the highest revenue, while West achieved the strongest profit efficiency.
 - Corporate customers were the most profitable customer segment.
 - Standard Class dominated customer shipping preferences.
@@ -167,9 +166,9 @@ This project was developed by Comfort Egbebu as part of her Business Intelligenc
 The repository includes:
 
 - Business Intelligence Project Report (PDF)
-- Dashboard screenshots
+- Dashboard images
 - Power BI project file (.pbix) 
 - Source dataset (Excel files) 
 
-  Thank you for taking the time to explore this project. Feedback and professional connections are always welcome.
+  Thank you for taking the time to explore this project. Feedback, collaboration, and professional networking opportunities are always welcome.
 
