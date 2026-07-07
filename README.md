@@ -1,4 +1,4 @@
-# Greenwich Retail Business Intelligence & Analytics Dashboard
+# Greenwich Retail Business Intelligence Dashboard
 An end-to-end Business Intelligence solution developed using Microsoft Power BI to transform retail transactional data into actionable business insights through interactive dashboards, KPI-driven reporting, dimensional data modeling, and business analytics.
 
 ## Project Overview
