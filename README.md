@@ -156,5 +156,18 @@ The Power BI solution consists of three interactive dashboards designed to suppo
 - Git &
 - GitHub
 
+## About the Author
+
+This project was developed by Comfort Egbebu as part of her Business Intelligence portfolio. It demonstrates practical skills in Microsoft Power BI, Power Query, DAX, dimensional data modeling, and business performance analysis, while showcasing the ability to transform raw business data into actionable insights for decision-making.
+
+
+## Project Resources
+
+The repository includes:
+
+- Business Intelligence Project Report (PDF)
+- Dashboard screenshots
+- Power BI project file (.pbix) 
+- Source dataset (Excel files) 
   
 
